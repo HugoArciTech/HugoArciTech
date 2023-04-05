@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HugoArciTech
 - 👀 I’m interested in learning JS
 - 🌱 I’m currently learning HTML and CSS and JS!
-- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me via email: hugoarcitech@gmail.com
 
 <!---
